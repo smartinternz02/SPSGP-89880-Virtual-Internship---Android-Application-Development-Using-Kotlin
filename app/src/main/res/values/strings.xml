@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Grocery Remainder App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item">Item: %s</string>
+    <string name="quantity">Quantity : %s</string>
+    <string name="price">Price : %s</string>
+    <string name="total_cost">%s Rs</string>
+</resources>
