@@ -22,7 +22,7 @@ Technologies used : 1. In this Navigation components are used .
 
 4. For datastorage, Room Database is used which an offline database that store the data inside the android .
 
-URL:- 
+URL:- https://github.com/smartinternz02/SPSGP-89880-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/master
 
 DEMO URL :- https://drive.google.com/file/d/1zIgTIaH3H3MMRjVMpk4eamgLcRMX7h5j/view?usp=sharing
 
